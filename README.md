@@ -1,5 +1,6 @@
 # appMercadolibrePracticaEduardo
 <h1>Esta aplicacion esta hecha por Eduardo </h1>
+ <img src="https://github.com/Eduardishion/Eduardishion/blob/main/_milogo.gif"  width="50" height="50"/>
 
 Es la practica del curso de DIGITAL HOUSE la cual simula un app de mercado libre funcional
 la cual esta lista para ser desplegadar y ser vista, es resposiva para movil tablets y pantallas de escritorio
