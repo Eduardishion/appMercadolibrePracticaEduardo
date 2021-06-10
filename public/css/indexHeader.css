@@ -91,6 +91,15 @@ body{
     background-color: rgba(0,0,0,0.4);
 }
 
+.cambioColor{
+     transition: background-color 450ms; 
+}
+
+.cambioColor:hover{
+    color: #0022AA;
+}
+
+
 @media (min-width: 350px){
     .copy-header{
         font-size:medium;
@@ -162,6 +171,10 @@ body{
         /* tener una poco de separacion */
         margin: 0 8px ;
 
+    }
+
+    footer{
+        display: flex;
     }
 
 }
