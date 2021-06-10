@@ -100,7 +100,7 @@ body{
 }
 
 
-@media (min-width: 350px){
+@media (min-width: 200px){
     .copy-header{
         font-size:medium;
         margin: 20px 0;
