@@ -44,7 +44,13 @@ https://developer.mozilla.org/es/docs/Learn/Forms/Form_validation
     padding: 5px 15px;
     border-radius: 5px;
     width: 100%;
+    transition: background-color 450ms;
 }
+
+.boton_formulario:hover{
+    background-color: #0022AA;
+}
+
 
 #formularioInicio label{
     margin-bottom: 5px;
