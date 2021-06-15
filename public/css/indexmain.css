@@ -153,13 +153,16 @@ Solo en el caso mobile la descripción del artículo no se visualizará.
     #articulosOfertas{
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
     #articulos{
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
     .articulo{
-        width: 50%;
+        width: 20%;
+        margin: 8px;
     }
 
     .envio{

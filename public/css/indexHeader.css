@@ -61,6 +61,10 @@ body{
 
 }
 
+#banner-img {
+    width: 100vw;
+}
+
 
 .descripcion{
     opacity: 0;
@@ -75,6 +79,23 @@ body{
 .articulo{
     position: relative;
 }
+   
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
+
+#footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-cr {
+    display: flex;
+    justify-content: center;
+}
+
 
 .efecto{
     position: absolute;
@@ -172,8 +193,27 @@ body{
 
     }
 
-    footer{
+    #articulosOfertas, #articulos {
         display: flex;
+        flex-wrap: wrap;
+    }
+
+    .articulo {
+        margin: 8px;
+    }
+
+    .descripcion-producto {
+        position: relative;
+    }
+
+    .descuento{
+        position: relative;
+        left: 24px;
+    }
+
+
+    #footer {
+        flex-direction: row;
     }
 
 }
