@@ -1,5 +1,5 @@
-# appMercadolibrePracticaEduardo
-  <h1>Esta aplicacion esta hecha por Eduardo </h1>
+# appMercadolibrePractica
+  <h1>Esta aplicacion esta hecha por Eduipo 1</h1>
   <img src="https://github.com/Eduardishion/Eduardishion/blob/main/_milogo.gif"  width="50" height="50"/>
 
 
